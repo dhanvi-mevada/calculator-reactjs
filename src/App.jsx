@@ -1,7 +1,7 @@
 import styles from "./App.module.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Display from "./components/display";
-import ButtonContainer from "./components/buttonsContainer";
+import ButtonContainer from "./components/ButtonsContainer";
 import { useState } from "react";
 
 function App() {
